@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartWalkAI",
+  "description": "An AI-powered smart walking tracker that provides personalized coaching, activity analysis, and motivational challenges using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
